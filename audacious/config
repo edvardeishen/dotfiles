@@ -1,0 +1,16 @@
+
+[qtui]
+player_height=1058
+player_width=1150
+
+[skins]
+equalizer_x=98
+equalizer_y=18
+player_x=1225
+player_y=54
+playlist_x=1225
+playlist_y=286
+skin=/usr/share/audacious/Skins/Refugee
+
+[skins-layout]
+albumart-qt=0,18,288,192

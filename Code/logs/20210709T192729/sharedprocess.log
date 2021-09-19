@@ -1,0 +1,10 @@
+[2021-07-09 19:27:41.890] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-09 19:27:54.810] [sharedprocess] [info] Installing extension: github.github-vscode-theme
+[2021-07-09 19:27:56.453] [sharedprocess] [info] Downloaded extension: github.github-vscode-theme /home/edvard/.config/Code/CachedExtensionVSIXs/github.github-vscode-theme-4.1.1
+[2021-07-09 19:27:56.513] [sharedprocess] [info] Extracted extension to /home/edvard/.vscode/extensions/.2f40eec3-b000-4b8e-bd03-93f581845761: github.github-vscode-theme
+[2021-07-09 19:27:56.531] [sharedprocess] [info] Renamed to /home/edvard/.vscode/extensions/github.github-vscode-theme-4.1.1
+[2021-07-09 19:27:56.532] [sharedprocess] [info] Installation completed. github.github-vscode-theme
+[2021-07-09 19:27:56.542] [sharedprocess] [info] Extensions installed successfully: github.github-vscode-theme
+[2021-07-09 19:28:01.887] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-09 19:28:01.888] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-09 19:28:11.889] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
