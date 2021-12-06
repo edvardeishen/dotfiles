@@ -24,7 +24,6 @@ local hotkeys_popup = require("awful.hotkeys_popup")
                       require("awful.hotkeys_popup.keys")
 local mytable       = awful.util.table or gears.table -- 4.{0,1} compatibility
 local bling	    = require("bling")
-local awestore 	    = require("awestore")
 
 -- }}}
 
