@@ -1,0 +1,12 @@
+import = [ "C:\\Users\\edvar\\AppData\\Roaming\\alacritty\\themes\\themes\\tokyo-night.toml" ]
+
+[window]
+dimensions = { columns =  200, lines = 50 }
+position = { x = 450, y = 250 }
+
+[font]
+size = 10.5
+normal.family = "JetBrainsMono Nerd Font"
+bold.family = "JetBrainsMono Nerd Font"
+italic.family = "JetBrainsMono Nerd Font"
+bold_italic.family = "JetBrainsMono Nerd Font"
