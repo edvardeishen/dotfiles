@@ -6,4 +6,4 @@ Hyprland config with Waybar, Wofi and WLogOut
 
 Kitty and Alacritty with WezTerm for Windows
 
-This + [Kickstart.vim](https://github.com/nvim-lua/kickstart.nvim) & [Tmux](https://github.com/gpakosz/.tmux) with [Tokyo Night](https://github.com/janoamaral/tokyo-night-tmux) FTW
+And this [Kickstart.vim](https://github.com/nvim-lua/kickstart.nvim) FTW
