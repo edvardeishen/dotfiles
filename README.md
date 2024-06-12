@@ -6,4 +6,4 @@ Hyprland config with Waybar, Wofi and WLogOut
 
 Kitty and Alacritty with WezTerm for Windows
 
-And this [Kickstart.vim](https://github.com/nvim-lua/kickstart.nvim) FTW
+And [Kickstart.vim](https://github.com/nvim-lua/kickstart.nvim) FTW
