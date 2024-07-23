@@ -1,0 +1,10 @@
+XTerm.termName: xterm-256color
+XTerm*vt100.translations: #override \
+    Shift Ctrl <Key> C: copy-selection(CLIPBOARD) \n\
+    Shift Ctrl <Key> V: insert-selection(CLIPBOARD)
+XTerm.vt100.foreground: white
+XTerm.vt100.background: black
+XTerm.vt100.color0: rgb:28/28/28
+XTerm.vt100.color15: rgb:e4/e4/e4
+XTerm.vt100.faceName: Terminess Nerd Font Mono:size=12:antialias=true
+XTerm.vt100.font: 7x13
