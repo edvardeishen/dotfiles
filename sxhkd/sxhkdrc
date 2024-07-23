@@ -7,8 +7,8 @@ alt + Return
 	xterm
 
 # program launcher
-alt + {_, shift + )d
-	rofi -show {drun, run}
+alt + {_, shift + }d
+	rofi -theme android_notification -show {drun -show-icons, run}
 # make sxhkd reload its configuration files:
 alt + Escape
 	pkill -USR1 -x sxhkd
