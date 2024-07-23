@@ -13,6 +13,9 @@ alt + {_, shift + )d
 alt + Escape
 	pkill -USR1 -x sxhkd
 
+alt + shift + r
+	rofi -show p -modi p:rofi-power-menu
+
 #
 # bspwm hotkeys
 #
